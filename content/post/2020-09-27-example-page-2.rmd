@@ -1,0 +1,14 @@
+---
+title: example page 2
+author: ~
+date: '2020-09-24'
+slug: example-page-2
+categories: []
+tags: []
+---
+
+# Abstraction 2
+
+# Introduction 2
+
+# Reference 2
